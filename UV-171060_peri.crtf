@@ -1,0 +1,2 @@
+#CRTFv0
+poly [[82.1pix, 95.9pix], [80.0pix, 94.4pix], [81.2pix, 91.8pix], [81.0pix, 89.5pix], [80.5pix, 86.1pix], [79.0pix, 83.4pix], [79.6pix, 79.8pix], [83.9pix, 76.1pix], [85.8pix, 78.4pix], [85.3pix, 80.1pix], [83.2pix, 83.0pix], [93.1pix, 86.9pix], [94.7pix, 91.0pix], [93.4pix, 94.5pix], [91.7pix, 95.0pix], [90.2pix, 95.0pix], [86.4pix, 98.5pix], [84.5pix, 98.5pix], [82.8pix, 96.3pix]] coord=ICRS, linewidth=2, linestyle=-, symsize=1, symthick=1, color=2ee6d6, font=Helvetica, fontsize=10, fontstyle=bold, usetex=false
